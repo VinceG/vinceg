@@ -1,3 +1,9 @@
+<a href="https://github.com/slow">
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=vinceg" alt="Profile Views Count">
+  </p>
+</a>
+
 ## Full Stack Software Engineer Working with Vue.js, Node.js, PHP & Laravel.
 
 
