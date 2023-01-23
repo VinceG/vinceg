@@ -4,27 +4,43 @@
   </p>
 </a>
 
-## Full Stack Software Engineer Working with Vue.js, Node.js, PHP & Laravel.
+## Full Stack Software Engineer Working with TypeScript, Vue.js, React, Svelte, Node.js, PHP & Laravel.
+
+### Languages
+<!-- Frontend -->
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" style="padding-right:10px;" />
+
+<img align="left" alt="HTML" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
+
+<br/>
+<br/>
+
+### Frameworks
+
+<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Vue" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Nuxt" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/react/react-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Svelte" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/svelte/svelte-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Laravel" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Tailwind" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;" />
 
 
-![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinceg&show_icons=true&count_private=true&theme=vue-dark)
+<br/>
+<br/>
 
-## Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vinceg&repo=vue-web-cam&theme=vue-dark)](https://github.com/VinceG/vue-web-cam)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vinceg&repo=vue-click-away&theme=vue-dark)](https://github.com/VinceG/vue-click-away)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vinceg&repo=twitter-bootstrap-wizard&theme=vue-dark)](https://github.com/VinceG/twitter-bootstrap-wizard)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vinceg&repo=Bootstrap-Admin-Theme&theme=vue-dark)](https://github.com/VinceG/Bootstrap-Admin-Theme)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vinceg&repo=USPS-php-api&theme=vue-dark)](https://github.com/VinceG/USPS-php-api)
-
-## Technologies / Languages
-
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinceg&theme=vue-dark&layout=compact)
