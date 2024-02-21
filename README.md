@@ -35,9 +35,9 @@
 
 <img align="left" alt="Svelte" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/svelte/svelte-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="Laravel" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="Tailwind" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="Tailwind" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" style="padding-right:10px;" />
 
 
 <br/>
